@@ -1,0 +1,12 @@
+{
+    "id": "{C7EFE268-7FE3-03CA-5AD7-BFFA7AA08209}",
+    "name": "Sprick",
+    "author": "Stephan",
+    "url": "https://github.com/da8ter/TileVisu-Watches.git",
+    "compatibility": {
+        "version": "7.1"
+    },
+    "version": "1.0",
+    "build": 1,
+    "date": 20251005
+}

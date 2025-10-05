@@ -1,0 +1,14 @@
+{
+    "id": "{56C1305F-7466-B83B-9C35-337EACE726B6}",
+    "name": "TileVisuWatches",
+    "type": 3,
+    "vendor": "",
+    "aliases": [
+        "TileVisu-Uhren"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "TVWA",
+    "url": "https://github.com/da8ter/TileVisu-Watches.git"
+}
